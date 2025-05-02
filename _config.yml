@@ -88,7 +88,7 @@
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 #   hide_site_feed_link: false
-remote_theme: "jekyll/minima@1e8a445"
+#remote_theme: "jekyll/minima@1e8a445"
 
 title: TiltedPanda
 author:
